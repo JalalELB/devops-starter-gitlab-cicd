@@ -4,17 +4,27 @@
 
 # 🚀 Gitlab + Cicd DevOps Starter (CI/CD Ready)
 
-A production-ready **DevOps Starter Pack** for modern developers.
+A **production-ready DevOps Starter Pack** built for developers who want to ship fast, monitor easily, and deploy confidently.
 
-- 🐳 **Dockerized** backend & frontend
-- 🔄 **CI/CD** with GitHub Actions or GitLab
-- 📊 **Monitoring** (Prometheus + Grafana)
-- 🚀 Ready for local & cloud deployment
+Includes full CI/CD pipelines, Dockerized architecture, and integrated monitoring (Grafana + Prometheus).
+
+---
+
+## ⚙️ Key Features
+- 🐳 **Dockerized** backend & frontend  
+- 🔄 **CI/CD** with GitHub Actions or GitLab  
+- 📊 **Monitoring** (Prometheus + Grafana)  
+- 🚀 **Ready for local & cloud deployment**
 
 ---
 
 ## 🧩 Tech Stack
 GitLab CI/CD · Docker · SonarQube · Confluence · Grafana · Prometheus
+
+---
+
+## 🏷️ Tags
+`gitlab` · `cicd` · `devops` · `docker` · `sonarqube` · `confluence` · `github-actions` · `pipeline` · `automation` · `template` · `starter` · `grafana` · `prometheus` · `monitoring`
 
 ---
 
