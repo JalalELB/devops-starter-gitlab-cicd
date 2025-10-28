@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="DevOps_Starter_pack.png" alt="DevOps Starter — Gitlab Cicd" width="100%" />
+</p>
 
 # 🚀 Gitlab + Cicd DevOps Starter (CI/CD Ready)
 
